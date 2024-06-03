@@ -1,0 +1,15 @@
+C:\Users\dd\source\repos\Lesson21\Lesson21\bin\Debug\net8.0\Lesson21.exe
+C:\Users\dd\source\repos\Lesson21\Lesson21\bin\Debug\net8.0\Lesson21.deps.json
+C:\Users\dd\source\repos\Lesson21\Lesson21\bin\Debug\net8.0\Lesson21.runtimeconfig.json
+C:\Users\dd\source\repos\Lesson21\Lesson21\bin\Debug\net8.0\Lesson21.dll
+C:\Users\dd\source\repos\Lesson21\Lesson21\bin\Debug\net8.0\Lesson21.pdb
+C:\Users\dd\source\repos\Lesson21\Lesson21\obj\Debug\net8.0\Lesson21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\source\repos\Lesson21\Lesson21\obj\Debug\net8.0\Lesson21.AssemblyInfoInputs.cache
+C:\Users\dd\source\repos\Lesson21\Lesson21\obj\Debug\net8.0\Lesson21.AssemblyInfo.cs
+C:\Users\dd\source\repos\Lesson21\Lesson21\obj\Debug\net8.0\Lesson21.csproj.CoreCompileInputs.cache
+C:\Users\dd\source\repos\Lesson21\Lesson21\obj\Debug\net8.0\Lesson21.sourcelink.json
+C:\Users\dd\source\repos\Lesson21\Lesson21\obj\Debug\net8.0\Lesson21.dll
+C:\Users\dd\source\repos\Lesson21\Lesson21\obj\Debug\net8.0\refint\Lesson21.dll
+C:\Users\dd\source\repos\Lesson21\Lesson21\obj\Debug\net8.0\Lesson21.pdb
+C:\Users\dd\source\repos\Lesson21\Lesson21\obj\Debug\net8.0\Lesson21.genruntimeconfig.cache
+C:\Users\dd\source\repos\Lesson21\Lesson21\obj\Debug\net8.0\ref\Lesson21.dll
